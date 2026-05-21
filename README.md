@@ -12,7 +12,7 @@ A single-screen tip calculator and bill splitter. Live updates as you type — n
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/tip-calculator.git
+git clone https://github.com/Sehreen-Atta/tip-calculator.git
 cd tip-calculator
 
 # Open in browser (macOS)
@@ -46,7 +46,7 @@ npx serve .
 
 ### Deployed URL
 
-> https://tip-calculator-YOUR_USERNAME.vercel.app *(replace with your actual URL after deploying)*
+> https://comforting-daifuku-6532bd.netlify.app/ *(replace with your actual URL after deploying)*
 
 ---
 
