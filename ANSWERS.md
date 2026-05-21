@@ -5,14 +5,14 @@
 No build step needed — this is a single HTML file with no dependencies.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tip-calculator.git
+git clone https://github.com/Sehreen-Atta/tip-calculator.git
 cd tip-calculator
 open index.html         # macOS
 # OR
 python3 -m http.server 3000   # then visit http://localhost:3000
 ```
 
-Deployed at: **https://tip-calculator-YOUR_USERNAME.vercel.app**
+Deployed at: **https://comforting-daifuku-6532bd.netlify.app/**
 
 Full setup details are in README.md.
 
